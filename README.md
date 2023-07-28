@@ -1,3 +1,3 @@
 # slide.clam.moe
 
-Hello World!
+[Hello World!](coscup2023/index.html)
